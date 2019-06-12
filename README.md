@@ -1,18 +1,16 @@
 
-Disclaimer: This work is heavily based on R. Castillo et al.'s DIRLAB work (www.dir-lab.com). Please cite and give acknowledgement to their work. 
+The purpose of this datasets is to provide a new and improved set of benchmark landmark pairs with point-to-point correspondences for accurate DIR evaluation.
+
+
+Disclaimer: This work is heavily based on R. Castillo et al.'s DIRLAB work (www.dir-lab.com). Please cite and give acknowledgement to their work if you found this datasets helpful. 
 
 DIRLAB 4DCT lung images were used. Please refer to www.dir-lab.com  and the references papers for more details.
 
-A. improved_dirlab_landmark_pairs folder contains 
-    1. improved dirlab 300 landmark pairs. Only part of the dirlab landmarks were improved. The remaining were unchanged.
-    2. see pdf files for visual comparison between landmark pairs before and after refinements.
-B. dense_landmark_pairs folder contains 
-    1. new dense landmark pairs, 
-    2. see pdf files for some randomly selected landmark pairs
 
 Note:
   1. Only landmark pair datasets were shared here. Please go to www.dir-lab.com to download original 4DCT datasets.
   2. When use this datasets, note that the first dimension and second dimention were swapped [y, x, z] compared to original DirLab landmark pairs [x, y, z].
+  
   EE represents End-Exhalation phase
   EI represents End-Inhalation phase
   
