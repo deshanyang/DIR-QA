@@ -1,1 +1,0 @@
-The datasets in this folder was refered as "Dense Sets of Landmark Pairs (DSLP) " in the manuscript.
