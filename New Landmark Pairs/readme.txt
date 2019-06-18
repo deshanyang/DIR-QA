@@ -15,4 +15,4 @@ In the .mat file, there are four variables, which are
 
 The pdf compared image patches around selected 'landmark_dirlab_EI' and 'landmark_new_EI' in order to demonstrate the improved positional accuracy of 'landmark_new_EI' as compared to 'landmark_dirlab_EI'.
 
-If you would like to use our improved version of 300 landmark pairs for you DIR evaluation, please use 'landmark_EE' and 'landmark_new_EI'.
+If you would like to use our improved version of 300 landmark pairs for you DIR evaluation, please use 'landmark_EE' and 'landmark_new_EI' (or use the data in .xls files).
