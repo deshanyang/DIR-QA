@@ -19,9 +19,12 @@ Note:
 
 Please cite original dirlab papers and our paper if you found the datasets useful.
 
-1. Automatic large quantity landmark pairs detection in 4DCT lung images (submitted)
+1. Automatic large quantity landmark pairs detection in 4DCT lung images (accepted, online link:  https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13726)
 Yabo Fu, Xue Wu, Allan Thomas, Harold H. Li, Deshan Yang*
 
 2. "A framework for evaluation of deformable image registration spatial accuracy using large landmark point sets,"
 R. Castillo, E. Castillo, R. Guerra, V.E. Johnson, T. McPhail, A.K. Garg, T. Guerrero, 
 Physics in medicine and biology 54 7, 1849-1870 (2009).
+
+
+If you have any questions, feel free to contact: yangdeshan@wustl.edu  or  fuyabo@gmail.com.
