@@ -15,7 +15,7 @@ Note:
   EI represents End-Inhalation phase
   
 
-![](image .png)
+![yabo_test](/images/Fig.1.png)
 
 Please cite original dirlab papers and our paper if you found the datasets useful.
 
