@@ -14,11 +14,22 @@ Note:
   EE represents End-Exhalation phase
   EI represents End-Inhalation phase
   
-Images below shows the procedures and examples of our method:
+Images below show the procedures and examples of our method:
 1. procedures to detect lung feature points
 ![figure 1](/images/Fig.1.png)
 2. Left: 3D rendering of the detected vasculature probability maps, Middle: Sliced vasculature probability maps with detected landmarks, Right: Sliced original CT image with detected landmarks. 
 ![figure 2](/images/Fig.2.png)
+3. Flow chart to establish landmark pair correspondence
+![figure 3](/images/Fig.3.png)
+4. The MSPS network architecture. A central-surrounding three-stream network uses a siamese type design for each stream
+![figure 4](/images/Fig.4.png)
+5. The preserved landmark pairs and rejected landmark pairs were plotted within the lung. 
+![figure 5](/images/Fig.5.png)
+6. Comparison of the 300 DIRLAB landmark pairs (top) to our dense set of landmark pairs (bottom), deformation vectors are color coded by magnitude
+![figure 6](/images/Fig.6.png)
+7. Left column: landmark at EI phase, middle column: original DIRLAB corresponding landmark at EE phase, right column: corresponding landmark at EE post MSPS refinement
+![figure 7](/images/Fig.7.png)
+
 
 
 REFERENCENS:
