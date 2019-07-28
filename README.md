@@ -14,9 +14,14 @@ Note:
   EE represents End-Exhalation phase
   EI represents End-Inhalation phase
   
+Images below shows the procedures and examples of our method:
+1. procedures to detect lung feature points
+![figure 1](/images/Fig.1.png)
+2. Left: 3D rendering of the detected vasculature probability maps, Middle: Sliced vasculature probability maps with detected landmarks, Right: Sliced original CT image with detected landmarks. 
+![figure 2](/images/Fig.2.png)
 
-![yabo_test](/images/Fig.1.png)
 
+REFERENCENS:
 Please cite original dirlab papers and our paper if you found the datasets useful.
 
 1. Automatic large quantity landmark pairs detection in 4DCT lung images (accepted, online link:  https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13726)
