@@ -43,4 +43,4 @@ R. Castillo, E. Castillo, R. Guerra, V.E. Johnson, T. McPhail, A.K. Garg, T. Gue
 Physics in medicine and biology 54 7, 1849-1870 (2009).
 
 
-If you have any questions, feel free to contact: yangdeshan@wustl.edu  or  fuyabo@gmail.com.
+If you have any questions, feel free to contact: deshan.yang@duke.edu  or  fuyabo@gmail.com.
